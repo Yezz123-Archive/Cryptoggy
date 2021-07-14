@@ -91,13 +91,4 @@ files. That's about it. No key generation, no sending the key back over a
 secure channel, no dropping new files or wallpapers or whatever. I'll get to
 that. Maybe. Open an issue if you so desire, pull requests welcome.** </code>
 
-<p align="center">
-    <a href="https://yassertahiri.medium.com/">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
-    <a href="https://twitter.com/THyasser1">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"</a>
-    <a href="https://discord.gg/crNvkTYPYG">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
-
 <p align="center"><a href="https://github.com/yezz123/Cryptoggy#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
